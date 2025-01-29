@@ -12,3 +12,5 @@
 🔹 **AI/ML**: TensorFlow, PyTorch, Scikit-Learn, OpenCV  
 🔹 **Databases**: MySQL, MongoDB  
 🔹 **Tools**: Git, Docker, Jupyter, VS Code   
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-giri-6b95b6271/) 
