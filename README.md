@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Kunal Giri 👋  
+🔭 **AI/ML Enthusiast** | 📚 CSE Student | 💡 Passionate about Deep Learning & NLP  
 
-<!--
-**kunall-giri/kunall-giri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+- 🔬 Working on **Machine Learning, Deep Learning, and Data Science**  
+- 🌱 Learning **MLOps, Transformers, and GANs**  
+- 🤝 Looking for **AI/ML research collaborations & internships**  
+- 📝 Writing about AI/ML on **LinkedIn & Medium**  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack  
+🔹 **Languages**: Python, C++, SQL  
+🔹 **AI/ML**: TensorFlow, PyTorch, Scikit-Learn, OpenCV  
+🔹 **Databases**: MySQL, MongoDB  
+🔹 **Tools**: Git, Docker, Jupyter, VS Code   
+### 📫 Connect with Me  
+[![LinkedIn](https://www.linkedin.com/in/kunal-giri-6b95b6271/)
